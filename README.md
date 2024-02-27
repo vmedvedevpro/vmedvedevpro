@@ -19,17 +19,17 @@ My name is Vlad.
 
 <p>
   <a href="https://github.com/vmedvedevpro">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vmedvedevpro&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vmedvedevpro&theme=github_dark" />
   </a>
   <a href="https://github.com/vmedvedevpro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmedvedevpro&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmedvedevpro&hide_border=true&card_width=338&theme=github_dark" />
   </a>
   <a href="https://github.com/vmedvedevpro">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmedvedevpro&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmedvedevpro&theme=github_dark" />
   </a>
  </br>
   <a href="https://github.com/vmedvedevpro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmedvedevpro&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmedvedevpro&hide_border=true&theme=github_dark" />
   </a>
 </p>
 

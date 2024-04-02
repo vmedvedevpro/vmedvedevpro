@@ -24,6 +24,7 @@ My name is Vlad.
   <a href="https://github.com/vmedvedevpro">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmedvedevpro&hide_border=true&card_width=338&theme=aura_dark" />
   </a>
+ <br/>
   <a href="https://github.com/vmedvedevpro">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmedvedevpro&theme=aura_dark" />
   </a>

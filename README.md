@@ -12,6 +12,8 @@ My name is Vlad.
 ### Pet-projects
 -->
 
+### [CV/Resume (ru)](./CV.md)
+
 ### Contacts
 
 - [Telegram](https://t.me/vmedvedevprowork)
@@ -24,10 +26,6 @@ My name is Vlad.
   <a href="https://github.com/vmedvedevpro">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmedvedevpro&hide_border=true&card_width=338&theme=aura_dark" />
   </a>
- <br/>
-  <a href="https://github.com/vmedvedevpro">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmedvedevpro&theme=aura_dark" />
-  </a>
 </p>
 
 <p>
@@ -35,6 +33,7 @@ My name is Vlad.
     <img src="https://komarev.com/ghpvc/?username=vmedvedevpro&color=blue&style=flat" />
   </a>
 </p>
+
 <!--
 
 - 🔭 I’m currently working on ...

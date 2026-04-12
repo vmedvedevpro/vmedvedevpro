@@ -4,7 +4,7 @@ My name is Vlad.
 
 ### Whoami
 
-.Net Software Engineer (backend)
+.NET & React Software Engineer 
 
 <!--
 ### Stack 
@@ -12,12 +12,10 @@ My name is Vlad.
 ### Pet-projects
 -->
 
-### [CV/Resume (ru)](./CV.md)
-
 ### Contacts
 
 - [Telegram](https://t.me/vmedvedevprowork)
-- [Email](mailto:work@vmedvedev.pro)
+- [Email](mailto:vmedvedevpro@gmail.com)
 
 <p>
   <a href="https://github.com/vmedvedevpro">

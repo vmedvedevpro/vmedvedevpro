@@ -30,6 +30,16 @@ My name is Vlad.
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=vmedvedevpro&repo=tech-pulse&theme=vue#gh-light-mode-only" alt="TechPulse Repo">
     </a>
 
+### Test Assignments
+
+<a href="https://github.com/vmedvedevpro/tech-pulse#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=vmedvedevpro&repo=order-tracking-app-infrastructure&theme=github_dark#gh-dark-mode-only" alt="Order Tracking App Repo">
+    </a>
+    <a href="https://github.com/vmedvedevpro/tech-pulse#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=vmedvedevpro&repo=order-tracking-app-infrastructure&theme=vue#gh-light-mode-only" alt="Order Tracking App Repo">
+    </a>
+
+
 ### Contacts
 
 - [Telegram](https://t.me/vmedvedevprowork)
